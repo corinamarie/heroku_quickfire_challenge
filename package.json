@@ -1,0 +1,16 @@
+{
+  "name": "heroku_fire_challenge",
+  "version": "1.0.0",
+  "description": "heroku quickfire challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "author": "corina marie bernstein",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.1",
+    "path": "^0.11.14"
+  }
+}
